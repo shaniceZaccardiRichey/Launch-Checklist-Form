@@ -19,7 +19,7 @@ function getPlanet() {
                <li>Number of Moons: ${selectedPlanet.moons}</li>
             </ol>
             <img src="${selectedPlanet.image}">`;
-;         });
+         });
       });
 } 
 
